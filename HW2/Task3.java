@@ -4,7 +4,7 @@ public class Task3 {
     //Задание 3
     //Дан следующий код, исправьте его там, где требуется
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  {
         int a = 90;
         int b = 3;
         if (b!=0){System.out.println(a / b);}else {System.out.println("Division by zero.");}
